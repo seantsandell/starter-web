@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 asdfasdfasdfasdfasf
 asdfasdfasdfasdfasdf
 asdfadsfasdf
+
+
+### Copyright
+2020 Git.Training
