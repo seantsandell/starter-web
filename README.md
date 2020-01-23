@@ -9,10 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to Contribute
-asdfasdfasdfasdfasf
-asdfasdfasdfasdfasdf
-asdfadsfasdf
-
+Plerase fork this repo
 
 ### Copyright
 2020 Git.Training
