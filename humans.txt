@@ -3,8 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
 
+    Sean Sandell IT Manager	@twinpeaksphoto
+	
 # THANKS
 
     <name>
